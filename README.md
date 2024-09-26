@@ -9,24 +9,22 @@ I'm a passionate Web3 developer specializing in Ethereum (Layer 1 and Layer 2) t
    💻 Tech Stack
 
     Web3 Technologies
-- Smart Contracts: Solidity, Vyper
+- Smart Contracts: Solidity
 - Ethereum: Web3.js, Ethers.js, Hardhat, Truffle
 - Layer 2: Optimism, Arbitrum, zkSync
 - DeFi Protocols: Uniswap, Aave, Compound
 - NFT Standards: ERC-721, ERC-1155
 
     Full Stack Development
-- Frontend: React.js, Next.js, HTML5, CSS3, JavaScript (ES6+)
+- Frontend: React.js, Next.js, HTML5, CSS, JavaScript (ES6+)
 - Backend: Node.js, Express.js
 - Database: MongoDB, PostgreSQL
 - Other: RESTful APIs, GraphQL, Jest, Mocha
 
    🔭 Current Projects
 
-- Developing a cross-chain DeFi aggregator using Layer 2 solutions
-- Building a decentralized social media platform with content monetization
-- Contributing to Ethereum Improvement Proposals (EIPs)
-
+- Building a decentralized file sharing system on Arbitrum layer2 solution.
+- 
    🌱 I'm Currently Learning
 
 - Advanced zkRollup technologies and their implementations
